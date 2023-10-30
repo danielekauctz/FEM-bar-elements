@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10055695.svg)](https://doi.org/10.5281/zenodo.10055695)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10055729.svg)](https://doi.org/10.5281/zenodo.10055729)
 
 # FEM-bar-elements
 
