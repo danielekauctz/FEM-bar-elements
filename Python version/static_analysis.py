@@ -101,6 +101,6 @@ def static_analysis(nodes,element_type,K,Kr):
     ccnt = ccnt.nonzero()
     disp[ccnt,0] = disp_r.T
     
-    forces = K*disp
+    forces = K@disp
             
     return disp, forces
